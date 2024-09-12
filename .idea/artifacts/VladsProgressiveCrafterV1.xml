@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="VladsProgressiveCrafterV1">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="VladsProgressiveCrafterV1.jar">
+      <element id="module-output" name="VladsProgressiveCrafterV1" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/OSBot 2.7.39.jar" />
+    </root>
+  </artifact>
+</component>
