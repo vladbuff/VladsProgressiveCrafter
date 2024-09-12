@@ -1,1 +1,1 @@
-source code is in src file, to properly install script just install all of these files and upload to your ide (pull request may also work) then compile into a jar like you would any handwritten script. 
+source code is in src file if youd like to go over it, to run script you can compile sourceCode yourself or install the already compiled jar and place it into your osbot scripts folder.
