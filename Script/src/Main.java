@@ -413,7 +413,10 @@ public class Main extends Script {
                                         } else if (amountOfCoins >= 250000){
                                             intRequiredGold = 280;
                                             intRequiredRuby = 280;
-                                        } else {
+                                        } else if(amountOfCoins >= 100000){
+                                            intRequiredGold = 100;
+                                            intRequiredRuby = 100;
+                                        }else{
                                             log("Not enough coins");
                                             intRequiredGold = 0;
                                             intRequiredRuby =0;
