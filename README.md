@@ -1,0 +1,1 @@
+source code is in src file, to properly install script just install all of these files and upload to your ide (pull request may also work) then compile into a jar like you would any handwritten script. 
