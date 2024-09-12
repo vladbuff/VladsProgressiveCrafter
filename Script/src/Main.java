@@ -25,7 +25,7 @@ import org.osbot.rs07.utility.ConditionalSleep;
 import javax.imageio.ImageIO;
 import javax.swing.*;
 
-@ScriptManifest(author = "Vlad's", info = "Progressive crafter", name = "Vlads Progressive Crafter", version = 0, logo = "")
+@ScriptManifest(author = "Vlad's", info = "Progressive crafter", name = "Vlads Progressive Crafter", version = 1.0, logo = "https://i.ibb.co/qWHNTtJ/vlads-Crafter-Logo.png")
 public class Main extends Script {
 
     private RS2Widget geConfirmWidget() {
@@ -148,7 +148,7 @@ public class Main extends Script {
     RS2Object edgeBank;
     RS2Object geBank;
 
-    public static File newImageFile = new File(System.getProperty("user.home") + File.separator + "OSBot" + File.separator + "Data" + File.separator + "newtestBackground.png");
+    public static File newImageFile = new File(System.getProperty("user.home") + File.separator + "OSBot" + File.separator + "Data" + File.separator + "VladsCrafterBackground.png");
 
     BufferedImage newImage;
 
